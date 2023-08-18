@@ -1,27 +1,17 @@
-# Blog
+# The Blog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+O projeto foi gerado utilizando [Angular CLI](https://github.com/angular/angular-cli) versão 16.2.0.
 
-## Development server
+## Rodando o projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+* Clone o projeto e rode o comando `npm install`.
+* Utilize `ng serve` para subir um servidor de desenvolvimento no link `http://localhost:4200/`.
 
-## Code scaffolding
+## Objetivo
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O projeto foi proposto durante a trilha de Angular da `Digital Innovation One`. O layout foi escolhido na Dribbble com base em um projeto do artista [Dwinawan](https://dribbble.com/dwinawan).
 
-## Build
+## TODO
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* Atualizar a responsividade dos componentes e página `Content`.
+* Dinamizar os dados da `Home`.
