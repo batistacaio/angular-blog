@@ -3,8 +3,9 @@
 }
 
 .title-container > h1 {
+    width: 95vw;
     font-weight: 700;
-    font-size: 300px;
+    font-size: 250px;
     display: flex;
     justify-content: center;
 }

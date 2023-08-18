@@ -1,0 +1,27 @@
+.menu-container {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-container > a {
+    margin-left: 45px;
+}
+
+.menu-container > ul {
+    display: flex;
+    margin-right: 45px;
+}
+
+.menu-container ul > li {
+    margin-right: 15px;
+    list-style: none;
+}
+
+.menu-container ul > li > a {
+    text-decoration: none;
+}
+
+.menu-container ul > li > a:hover {
+    color: grey;
+}

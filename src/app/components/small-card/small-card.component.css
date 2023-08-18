@@ -1,0 +1,21 @@
+.smallcard-container {
+    width: 500px;
+    display: flex;
+    align-items: start;
+    margin: 0 0 30px 70px;
+}
+
+.smallcard-container > img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+.smallcard-container > a {
+    font-size: 18px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.smallcard-container > a > p:hover {
+    color: grey;
+}
