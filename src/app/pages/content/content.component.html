@@ -1,16 +1,15 @@
 <app-menu-bar></app-menu-bar>
-
 <div class="content-container">
     <div class="content-cover">
-        <img src="../../../assets/img/stock01.jpg" alt="">
+        <img src={{cover}} alt="">
     </div>
     <div class="content-title">
-        <h1>Meu Artigo</h1>
+        <h1>{{contentTitle}}</h1>
         <hr>
     </div>
     <div class="content-description">
-        <p>A descrição do meu artigo.</p>
+        <p>{{contentText}}</p>
     </div>
 </div>
-
+<app-footer></app-footer>
 <router-outlet></router-outlet>
