@@ -1,0 +1,21 @@
+.ang-text:hover {
+    color: #ff0000;
+}
+
+.drib-text:hover {
+    color: #fbbcba;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 25px 0 25px 0;
+}
+
+.footer-container > p {
+
+}
+
+.footer-container > p > a {
+    text-decoration: none;
+}
