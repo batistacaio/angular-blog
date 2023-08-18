@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px) {
+    .menu-container {
+        margin-top: 25px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .menu-container > ul {
+        display: none;
+    }
+}

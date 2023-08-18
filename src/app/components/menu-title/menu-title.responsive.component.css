@@ -1,0 +1,8 @@
+@media screen and (max-width: 768px) {
+    .title-container > h1 {
+        width: 100vw;
+        font-weight: 200;
+        font-size: 60px;
+        text-align: center;
+    }
+}
